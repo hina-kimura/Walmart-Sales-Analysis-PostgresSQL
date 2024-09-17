@@ -1,1 +1,2 @@
-Overview
+## Overview
+The Walmart sales project involved creating a comprehensive sales table to track transactions, product lines, customer types, and sales data. Key analyses included identifying top-selling products, cities with the highest revenue, and customer behavior by gender, time of day, and payment method. Various SQL queries were run to explore revenue trends, product popularity, and customer demographics across different dimensions.
